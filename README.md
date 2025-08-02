@@ -1,1 +1,1 @@
-# My python app for chaos testing
+# My python app
